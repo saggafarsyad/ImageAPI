@@ -7,6 +7,7 @@ A simple REST API for uploading image
 
 ## 2. Installation
 1. Clone this repo
+2. Create **uploads** folder to store uploaded images
 
 ## 3. HTTP Request
 ### Method
